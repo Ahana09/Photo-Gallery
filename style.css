@@ -1,0 +1,28 @@
+body {
+    text-align: center;
+    background: #ee9ca7;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #ffdde1, #ee9ca7);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #ffdde1, #ee9ca7); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+#one,#two,#three,#four,#five,#six {
+    height: 300px;
+    width: 300px; 
+}
+
+.first {
+    width:700px; 
+}
+
+#myCarousel img {
+    width:50px;
+    margin-top:35px;
+}
+.carousel-inner {
+    margin-bottom:15px;
+    margin-top:15px; 
+    background: #12c2e9;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #f64f59, #c471ed, #12c2e9);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #f64f59, #c471ed, #12c2e9); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
